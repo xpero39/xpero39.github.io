@@ -15,15 +15,17 @@ redirect_from:
 ## Experience
 As a software engineer with several years of experience I have worked in several postions in the past.
 
-- 2022 - present - Full Stack Software Engineer - Ebazaaris, Berlin, Germany (remote)
+#### 2022 - present - Full Stack Software Engineer - Ebazaaris, Berlin, Germany (remote)
+
 Building software as a service (SaaS) solution for small to large businesses looking to sell and advertise their products on online marketplaces like Amazon, eBay, Kaufland, Otto and others. Application is built in PHP Laravel on the back-end and Javascrip React on the front-end. Application is deployed on Microsoft Azure and uses various Azure services like Azure SQL, Azure Blob Storage. Application is deployed using Docker containers and Bitbucket CI/CD pipelines.
 
 Tech stack: PHP (8+), Laravel, Javascript, React, MSSQL, MySQL, Docker, Jira, Confluence, Microsoft Azure, DigitalOcean, Git, PHPUnit, Redis, Bitbucket CI/CD, Sentry
 
-- 2021 - present - Software Engineer - Peter Vreča s.p., Slovenia
+#### 2021 - present - Software Engineer - Peter Vreča s.p., Slovenia
+
 Self employed software engineer working on various projects for clients. Working on projects from start to finish, from gathering requirements, designing and implementing solutions to deployment and maintenance. Primarily working on projects in space of eCommerce, enterprise applications and company websites.
 
-- 2017 - 2021 - Software Developer - Komab Holding GmbH (parent company) | Inandout Distribution GmbH, Graz, Austria
+#### 2017 - 2021 - Software Developer - Komab Holding GmbH (parent company) | Inandout Distribution GmbH, Graz, Austria
 Software Developer position at Inandout Distribution GmbH working on internal applications handling variable supplier data and millions of products and offer listings on various marketplaces (Amazon, Fnac, Rakuten..) as well as an application for processing orders with features for customer support and order shipment for both B2B and B2C segments.
 
 Integration of marketplace APIs (Amazon MWS, Mirakl, WooCommerce...) and handling API request limitations. Setting up new suppliers, marketplaces, fulfillment or B2B partners.
@@ -36,7 +38,8 @@ Assisting legal department on marketplace (Amazon) seller support cases with tec
 
 Tech stack: PHP, Symfony, Laravel, Sylius, Wordpress, WooCommerce, Mirakl, Amazon MWS, Linux, Vagrant, Git, Bash, Nginx, Javascript, VueJS, jQuery, RabbitMQ, Jira, Confluence, Gitlab
 
-- 2016 - Web Application Developer - Cirencester College, United Kingdom
+#### 2016 - Web Application Developer - Cirencester College, United Kingdom
+
 In Cirencester I developed and application for the College website which lets students decide which course they want to take and which courses they should take to have a career of their choosing.
 
 Tech stack: PHP, MySQL, HTML, CSS, JavaScript, jQuery, Bootstrap
