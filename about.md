@@ -12,7 +12,7 @@ redirect_from:
 
 <!--author-->
 
-## Expirience
+## Experience
 As a software engineer with several years of experience I have worked in several postions in the past.
 
 - 2022 - present - Full Stack Software Engineer - Ebazaaris, Berlin, Germany (remote)
