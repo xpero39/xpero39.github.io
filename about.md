@@ -40,6 +40,6 @@ Tech stack: PHP, Symfony, Laravel, Sylius, Wordpress, WooCommerce, Mirakl, Amazo
 
 #### 2016 - Web Application Developer - Cirencester College, United Kingdom
 
-In Cirencester I developed and application for the College website which lets students decide which course they want to take and which courses they should take to have a career of their choosing.
+In Cirencester I developed an application for the College website which lets students decide which course they want to take and which courses they should take to have a career of their choosing.
 
 Tech stack: PHP, MySQL, HTML, CSS, JavaScript, jQuery, Bootstrap
