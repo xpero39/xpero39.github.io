@@ -2,8 +2,7 @@
 layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Software Engineer from Slovenia, Europe primarily building software products in the space of eCommerce.
 hide_description: true
 redirect_from:
   - /download/
@@ -13,165 +12,31 @@ redirect_from:
 
 <!--author-->
 
-## Hydejack
+## Expirience
+As a software engineer with several years of experience I have worked in several postions in the past.
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
-{:.lead}
+- 2022 - present - Full Stack Software Engineer - Ebazaaris, Berlin, Germany (remote)
+Building software as a service (SaaS) solution for small to large businesses looking to sell and advertise their products on online marketplaces like Amazon, eBay, Kaufland, Otto and others. Application is built in PHP Laravel on the back-end and Javascrip React on the front-end. Application is deployed on Microsoft Azure and uses various Azure services like Azure SQL, Azure Blob Storage. Application is deployed using Docker containers and Bitbucket CI/CD pipelines.
 
-1. this list will be replaced by the toc
-{:toc .large-only}
+Tech stack: PHP (8+), Laravel, Javascript, React, MSSQL, MySQL, Docker, Jira, Confluence, Microsoft Azure, DigitalOcean, Git, PHPUnit, Redis, Bitbucket CI/CD, Sentry
 
-![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
+- 2021 - present - Software Engineer - Peter Vreča s.p., Slovenia
+Self employed software engineer working on various projects for clients. Working on projects from start to finish, from gathering requirements, designing and implementing solutions to deployment and maintenance. Primarily working on projects in space of eCommerce, enterprise applications and company websites.
 
-Hydejack's cover page on a variety of screen sizes.
-{:.figcaption}
+- 2017 - 2021 - Software Developer - Komab Holding GmbH (parent company) | Inandout Distribution GmbH, Graz, Austria
+Software Developer position at Inandout Distribution GmbH working on internal applications handling variable supplier data and millions of products and offer listings on various marketplaces (Amazon, Fnac, Rakuten..) as well as an application for processing orders with features for customer support and order shipment for both B2B and B2C segments.
 
+Integration of marketplace APIs (Amazon MWS, Mirakl, WooCommerce...) and handling API request limitations. Setting up new suppliers, marketplaces, fulfillment or B2B partners.
 
-**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
+Next to that also worked on company websites and shops. Wrote documentation on company processes and legacy applications. Set up new project environments on Linux servers for either development (testing, showcasing) or production use.
 
-It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
+Leading collaboration with outside software partner firm and managing projects and tasks for the software department. Also managing new employees technical on-boarding process, assisting interviews by testing the candidates and preparing the tests.
 
-> Your complete presence on the web — A [blog], [portfolio], and [resume].
-{:.lead}
+Assisting legal department on marketplace (Amazon) seller support cases with technical expertise and regularly meeting with management of departments on current issues (suppliers, marketplaces, shipment, product data, technology, customer support) and providing guidance from technology point of view.
 
+Tech stack: PHP, Symfony, Laravel, Sylius, Wordpress, WooCommerce, Mirakl, Amazon MWS, Linux, Vagrant, Git, Bash, Nginx, Javascript, VueJS, jQuery, RabbitMQ, Jira, Confluence, Gitlab
 
-## A Personal Site That Won't Disappear
+- 2016 - Web Application Developer - Cirencester College, United Kingdom
+In Cirencester I developed and application for the College website which lets students decide which course they want to take and which courses they should take to have a career of their choosing.
 
-**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
-
-Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime.
-
-## Download
-
-{% include table.md %}
-
-
-## A Free Blogging Theme
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
-
-<!--posts-->
-
-
-## An Impressive Portfolio
-A portfolio that's guaranteed to be impressive — no matter what you put into it.
-
-<!--projects-->
-
-
-## A Printable Resume
-Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](assets/Resume.pdf).
-
-[![Resume PDF](assets/img/blog/resume.png){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
-
-Front and center page of a print resume generated by Hydejack.
-{:.figcaption}
-
-
-## Just Markdown
-Write all content with Markdown. __Hydejack__ gives you [additional CSS classes](docs/writing.md) to stylize your content, without losing compatibility with other Jekyll themes.
-
-
-## Just Markup
-**Hydejack** boasts a plethora of modern JavaScript, but make no mistake: It's still a _plain old web page_ at its core. It works without JavaScript and you can even view it in a text-based browser like `w3m`:
-
-![w3m Screenshot](assets/img/blog/w3m.png){:.tail width="1920" height="1260" loading="lazy"}
-
-The Hydejack blog, as seen by the text browser `w3m`.
-{:.figcaption}
-
-
-## Syntax Highlighting
-**Hydejack** features syntax highlighting, powered by [Rouge].
-
-```html
-<!-- file: `_includes/my-body.html` -->
-<script type="module">
-  document.querySelector("hy-push-state").addEventListener("hy-push-state-load", () => {
-    const supportsCodeHighlights = false; // TBD!!
-  });
-</script>
-```
-
-Code blocks can have a filename and a caption.
-{:.figcaption}
-
-
-## Beautiful Math
-They say math is beautiful — and with **Hydejack**'s [math support][math] it's guaranteed to also look beautiful:
-
-$$
-\begin{aligned}
-  \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
-            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
-            &= (x_1, \ldots, x_n)
-               \left(\begin{array}{ccc}
-                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
-                 \vdots          & \ddots & \vdots         \\
-                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
-               \end{array}\right)
-               \left(\begin{array}{c}
-                 y_1    \\
-                 \vdots \\
-                 y_n
-               \end{array}\right)
-\end{aligned}
-$$
-
-Hydejack uses KaTeX to efficiently render math.
-{:.figcaption}
-
-
-## Build an Audience
-The PRO version has built-in support for customizable [Tinyletter] newsletter subscription boxes.
-
-If you are using a different service like MailChimp, you can build a custom newsletter subscription box using [Custom Forms][forms].
-
-
-## Features
-
-{% include features.md %}
-
-
-## Comparison
-
-{% include table.md %}
-
-
-## Get It Now
-
-Use the the form below to purchase Hydejack PRO:
-
-<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
-
-
-[blog]: /
-[portfolio]: https://hydejack.com/examples/
-[resume]: https://hydejack.com/resume/
-[download]: https://hydejack.com/download/
-[welcome]: https://hydejack.com/
-[forms]: https://hydejack.com/forms-by-example/
-
-[features]: #features
-[news]: #build-an-audience
-[syntax]: syntax-highlighting
-[latex]: #beautiful-math
-[dark]: https://hydejack.com/blog/hydejack/2018-09-01-introducing-dark-mode/
-[search]: https://hydejack.com/#_search-input
-[grid]: https://hydejack.com/blog/hydejack/
-
-[lic]: LICENSE.md
-[pro]: licenses/PRO.md
-[docs]: docs/README.md
-[ofln]: docs/advanced.md#enabling-offline-support
-[math]: docs/writing.md#adding-math
-
-[kit]: https://github.com/hydecorp/hydejack-starter-kit/releases
-[src]: https://github.com/hydecorp/hydejack
-[gem]: https://rubygems.org/gems/jekyll-theme-hydejack
-[buy]: https://gum.co/nuOluY
-
-[gpss]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fhydejack.com%2Fdocs%2F
-[rouge]: http://rouge.jneen.net
-[katex]: https://khan.github.io/KaTeX/
-[mathjax]: https://www.mathjax.org/
-[tinyletter]: https://tinyletter.com/
+Tech stack: PHP, MySQL, HTML, CSS, JavaScript, jQuery, Bootstrap
