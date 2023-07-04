@@ -9,7 +9,7 @@ redirect_from:
   - /download/
 ---
 
-# Book recommendations
+<!-- # Book recommendations -->
 
 ## Software development
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052) by Andrew Hunt and David Thomas
