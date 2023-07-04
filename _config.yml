@@ -54,6 +54,8 @@ menu:
   #  url:               /docs/
   - title:             About #/ O meni
     url:               /about/
+  - title:            Reading recommendations #/ Projekti
+    url:               /reading/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
