@@ -17,7 +17,7 @@ As a software engineer with several years of experience I have worked in several
 
 #### 2022 - present - Full Stack Software Engineer - Ebazaaris, Berlin, Germany (remote)
 
-Building software as a service (SaaS) solution for small to large businesses looking to sell and advertise their products on online marketplaces like Amazon, eBay, Kaufland, Otto and others. Application is built in PHP Laravel on the back-end and Javascript React on the front-end. Application is deployed on Microsoft Azure and uses various Azure services like Azure SQL, Azure Blob Storage and Azure Data Factory and more. Application is deployed using Docker containers and Bitbucket CI/CD pipelines.
+Building software as a service (SaaS) solution for small to large businesses looking to sell and advertise their products on online marketplaces like Amazon, eBay, Kaufland, Otto and others. Application is built in PHP Laravel on the back-end and Javascript React on the front-end. Application is deployed on Microsoft Azure and uses various Azure services like Azure SQL, Azure Blob Storage, Azure Data Factory and more. Application is deployed using Docker containers and Bitbucket CI/CD pipelines.
 
 Tech stack: PHP (8+), Laravel, Javascript, React, MSSQL, MySQL, Docker, Jira, Confluence, Microsoft Azure, DigitalOcean, Git, PHPUnit, Redis, Bitbucket CI/CD, Sentry, PowerBI
 
@@ -45,9 +45,10 @@ In Cirencester I developed an application for the College website which lets stu
 Tech stack: PHP, MySQL, HTML, CSS, JavaScript, jQuery, Bootstrap
 
 
-## Education <!-- change to Experience and education page? -->
+<!-- ## Education--> 
+<!-- change to Experience and education page? -->
 
 
-## Interests
+<!-- ## Interests -->
 
 <!-- ## Projects? -->
