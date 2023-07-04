@@ -3,7 +3,7 @@ layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
   Software Engineer from Slovenia, Europe primarily building software products in the space of eCommerce.
-hide_description: true
+#hide_description: true
 redirect_from:
   - /download/
 ---

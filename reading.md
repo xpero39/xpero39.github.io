@@ -4,7 +4,7 @@ title: Book recommendations
 image: /assets/img/blog/hydejack-9.jpg
 description: >
   A list of books I read and recommend reading.
-hide_description: true
+#hide_description: true
 redirect_from:
   - /download/
 ---
