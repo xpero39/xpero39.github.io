@@ -23,7 +23,7 @@ Tech stack: PHP (8+), Laravel, Javascript, React, MSSQL, MySQL, Docker, Jira, Co
 
 #### 2021 - present - Software Engineer - Peter Vreča s.p., Slovenia
 
-Self employed software engineer working on various projects for clients. Working on projects from start to finish, from gathering requirements, designing and implementing solutions to deployment and maintenance. Primarily working on projects in space of eCommerce, enterprise applications and company websites.
+Self employed software engineer working on various projects for clients. Working on projects from start to finish, from gathering requirements, designing and implementing solutions to deployment and maintenance. Primarily working on projects in space of eCommerce, enterprise applications and websites.
 
 #### 2017 - 2021 - Software Developer - Komab Holding GmbH (parent company) | Inandout Distribution GmbH, Graz, Austria
 Software Developer position at Inandout Distribution GmbH working on internal applications handling variable supplier data and millions of products and offer listings on various marketplaces (Amazon, Fnac, Rakuten..) as well as an application for processing orders with features for customer support and order shipment for both B2B and B2C segments.
@@ -43,3 +43,11 @@ Tech stack: PHP, Symfony, Laravel, Sylius, Wordpress, WooCommerce, Mirakl, Amazo
 In Cirencester I developed an application for the College website which lets students decide which course they want to take and which courses they should take to have a career of their choosing.
 
 Tech stack: PHP, MySQL, HTML, CSS, JavaScript, jQuery, Bootstrap
+
+
+## Education <!-- change to Experience and education page? -->
+
+
+## Interests
+
+<!-- ## Projects? -->
