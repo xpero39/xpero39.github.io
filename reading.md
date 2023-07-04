@@ -1,5 +1,5 @@
 ---
-layout: Reading
+layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
   A list of books I read and recommend reading.

@@ -54,7 +54,7 @@ menu:
   #  url:               /docs/
   - title:             About #/ O meni
     url:               /about/
-  - title:            Reading recommendations #/ Projekti
+  - title:            Reading
     url:               /reading/
 
 # Add links to the footer.
