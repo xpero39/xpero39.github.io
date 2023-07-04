@@ -1,5 +1,5 @@
 ---
-layout: reading
+layout: page
 title: Book recommendations
 image: /assets/img/blog/hydejack-9.jpg
 description: >
