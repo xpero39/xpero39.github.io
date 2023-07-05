@@ -13,7 +13,6 @@ redirect_from:
 
 ## Software development
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052) by Andrew Hunt and David Thomas
-- [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) by Robert C. Martin
 - [The Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
 
 ## Habits
@@ -27,10 +26,12 @@ redirect_from:
 - [The Highoutput Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) by Andrew S. Grove
 - [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Revolutionary-Change-Business/dp/0062060244) by Clayton M. Christensen
 - [Shoe Dog](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike/dp/1501135929) by Phil Knight
+- [The Unfair Advantage](https://www.goodreads.com/en/book/show/50714359) by Ash Ali and Hasan Kubba
 
 ## Finance
 - [The Richest Man in Babylon](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon_(book)) by George S. Clason
 - [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194) by Robert T. Kiyosaki
+- [Poor Charlie's Almanack](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018) by Peter D. Kaufman
 
 ## Fiction
 - [The Alchemist](https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0062315005) by Paulo Coelho
@@ -41,3 +42,4 @@ redirect_from:
 ## Random
 - [Skin in the Game](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X) by Nassim Nicholas Taleb
 - [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) by Daniel Kahneman
+- [The Almanack of Naval Ravikant](https://www.amazon.com/Almanack-Naval-Ravikant-Wealth-Happiness/dp/1999747142) by Eric Jorgenson
