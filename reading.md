@@ -18,6 +18,7 @@ redirect_from:
 ## Habits
 - [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) by James Clear
 - [The Compound Effect](https://www.amazon.com/Compound-Effect-Darren-Hardy/dp/159315724X) by Darren Hardy
+- [The 5AM Club: Own Your Morning. Elevate Your Life](https://www.amazon.com/5-AM-Club-Own-Your-Morning/dp/1443456624) by Robin Sharma
 
 ## Business
 - [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) by Ben Horowitz
