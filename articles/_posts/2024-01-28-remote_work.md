@@ -14,32 +14,32 @@ Some companies love it, some hate it. Why is that? What are the benefits of remo
 Remote work has many benefits for both the employer and the employee.
 
 ## BENEFITS FOR THE EMPLOYER:
- * Access to a global talent pool
- * Lower costs (no office space, no office equipment, no office supplies, no office perks)
- * Lower employee salaries (no need to pay for the location)
+ - Access to a global talent pool
+ - Lower costs (no office space, no office equipment, no office supplies, no office perks)
+ - Lower employee salaries (no need to pay for the location)
 
 ## BENEFITS FOR THE EMPLOYEE:
- * No commute
- * Flexible working hours
- * No need to relocate
- * No need to pay for the location (living in the city is more expensive than living in the countryside)
- * More time for family and friends
- * More time for hobbies, exercise, etc.
+ - No commute
+ - Flexible working hours
+ - No need to relocate
+ - No need to pay for the location (living in the city is more expensive than living in the countryside)
+ - More time for family and friends
+ - More time for hobbies, exercise, etc.
 
 Now for the downsides.
 
 ## DOWNSIDES FOR THE EMPLOYER:
- * Harder to build a team and company culture
- * Harder to manage employees (no face-to-face communication)
- * Harder to keep employees motivated and engaged
- * Harder to keep employees
+ - Harder to build a team and company culture
+ - Harder to manage employees (no face-to-face communication)
+ - Harder to keep employees motivated and engaged
+ - Harder to keep employees
 
 ## DOWNSIDES FOR THE EMPLOYEE:
- * Harder to collaborate with colleagues
- * No face-to-face communication
- * Lack of social interaction
- * Work-life balance is harder to maintain (meetings scheduled throughout the day, even in the evening)
- * Harder to get promoted
+ - Harder to collaborate with colleagues
+ - No face-to-face communication
+ - Lack of social interaction
+ - Work-life balance is harder to maintain (meetings scheduled throughout the day, even in the evening)
+ - Harder to get promoted
 
 ## THE NITTY GRITTY
 
