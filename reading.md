@@ -51,7 +51,7 @@ The web is full of great content. A list of some.
 
 - [Paul Graham](http://www.paulgraham.com)
 - [Martin Fowler](https://martinfowler.com)
-- [Joel Spolsky](https://www.joelonsoftware.com)
+- [Joel On Software](https://www.joelonsoftware.com) by Joel Spolsky
 - [Dave Farley](https://www.davefarley.net)
 - [Harvard Business Review](https://hbr.org)
 - [Farnam Street](https://fs.blog) by Shane Parrish
