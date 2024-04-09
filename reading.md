@@ -64,5 +64,5 @@ The web is full of great content. A list of some.
 
 - [The a16z Podcast](https://a16z.com/podcasts/a16z-podcast/) by Andreessen Horowitz
 - [Huberman Lab](https://www.hubermanlab.com/podcast)
-- [Founders Podcast by David Senra](https://www.founderspodcast.com/)
+- [Founders Podcast](https://www.founderspodcast.com/) by David Senra
 - [Continuous Delivery](https://www.youtube.com/c/ContinuousDelivery) by Dave Farley
