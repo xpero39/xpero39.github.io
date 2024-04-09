@@ -3,7 +3,7 @@ layout: page
 title: Book recommendations
 image: /assets/img/blog/hydejack-9.jpg
 description: >
-  A list of books I read and recommend reading.
+  A list of books I read and recommend reading. Plus, [blogs](#blogs) and [podcasts](#podcasts) I follow below.
 #hide_description: true
 redirect_from:
   - /download/
@@ -39,8 +39,30 @@ redirect_from:
 - [I Robot](https://www.amazon.com/Robot-Isaac-Asimov/dp/055338256X) by Isaac Asimov
 - [Dune](https://www.amazon.com/Dune-Frank-Herbert/dp/0441172717) by Frank Herbert
 
-
 ## Random
 - [Skin in the Game](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X) by Nassim Nicholas Taleb
 - [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) by Daniel Kahneman
 - [The Almanack of Naval Ravikant](https://www.amazon.com/Almanack-Naval-Ravikant-Wealth-Happiness/dp/1999747142) by Eric Jorgenson
+- [Shogun](https://www.barnesandnoble.com/w/shogun-james-clavell/1100618383) by James Clavell
+
+
+# Blogs
+The web is full of great content. A list of some.
+
+- [Paul Graham](http://www.paulgraham.com)
+- [Martin Fowler](https://martinfowler.com)
+- [Joel Spolsky](https://www.joelonsoftware.com)
+- [Dave Farley](https://www.davefarley.net)
+- [Harvard Business Review](https://hbr.org)
+- [Farnam Street](https://fs.blog) by Shane Parrish
+- [Derek Sivers](https://sive.rs/blog)
+- [Collabfund](https://collabfund.com/blog/)
+- [Software Design: Tidy First?](https://tidyfirst.substack.com/) by Kent Beck
+- [The Pragmatic Engineer](https://blog.pragmaticengineer.com/) by Gergely Orosz
+
+# Podcasts
+
+- [Andressen Horowitz](https://a16z.com/podcasts/a16z-podcast/)
+- [Huberman Lab](https://www.hubermanlab.com/podcast)
+- [Founders Podcast by David Senra](https://www.founderspodcast.com/)
+- [Continuous Delivery](https://www.youtube.com/c/ContinuousDelivery) by Dave Farley
