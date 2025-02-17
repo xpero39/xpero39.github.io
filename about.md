@@ -15,13 +15,17 @@ redirect_from:
 ## Experience
 As a software engineer with several years of experience I have worked in several postions in the past.
 
-#### 2022-06 - 2023-11 - Full Stack Software Engineer - Ebazaaris, Berlin, Germany (remote)
+#### 2024-06 - present - Senior Software Engineer - Venuzle Gmbh, Graz, Austria
+
+Software Engineer position at Venuzle Gmbh working on a platform for sports clubs and public organizations to manage their sport facilities, events, orders, payments and more. Application is built with PHP Laravel (Livewire) and Mary UI, TailwindCSS and Javascript on the frontend. Position focuses on growing the customer base, expanding the development team, improving development practices, implementing new features for the new platform and mantaining the legacy platform while migrating customers to the new platform.
+
+#### 2022-06 - 2023-11 - Full Stack Software Engineer - EBZ Marketplaces GmbH - Ebazaaris, Berlin, Germany (remote)
 
 Built software as a service (SaaS) solution for small to large businesses looking to sell and advertise their products on online marketplaces like Amazon, eBay, Kaufland, Otto and others. Application is built in PHP Laravel on the back-end and Javascript React on the front-end. Application is deployed on Microsoft Azure and uses various Azure services like Azure SQL, Azure Blob Storage, Azure Data Factory and more. Application is deployed using Docker containers and Bitbucket CI/CD pipelines.
 
 Tech stack: PHP (8+), Laravel, Javascript, React, MSSQL, MySQL, Docker, Jira, Confluence, Microsoft Azure, DigitalOcean, Git, PHPUnit, Redis, Bitbucket CI/CD, Sentry, PowerBI
 
-#### 2021 - present - Software Engineer - Peter Vreča s.p., Slovenia
+#### 2021 - 2024-08 - Software Engineer - Peter Vreča s.p., Slovenia
 
 Self employed software engineer working on various projects for clients. Working on projects from start to finish, from gathering requirements, designing and implementing solutions to deployment and maintenance. Primarily working on projects in space of eCommerce, enterprise applications and websites.
 
