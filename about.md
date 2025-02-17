@@ -15,7 +15,7 @@ redirect_from:
 ## Experience
 As a software engineer with several years of experience I have worked in several postions in the past.
 
-#### 2024-06 - present - Senior Software Engineer - Venuzle Gmbh, Graz, Austria
+#### 2024-06 - present - Senior Software Engineer - Venuzle GmbH, Graz, Austria
 
 Software Engineer position at Venuzle Gmbh working on a platform for sports clubs and public organizations to manage their sport facilities, events, orders, payments and more. Application is built with PHP Laravel (Livewire) and Mary UI, TailwindCSS and Javascript on the frontend. Position focuses on growing the customer base, expanding the development team, improving development practices, implementing new features for the new platform and mantaining the legacy platform while migrating customers to the new platform.
 
