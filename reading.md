@@ -60,7 +60,10 @@ The web is full of great content. A list of some.
 - [Software Design: Tidy First?](https://tidyfirst.substack.com/) by Kent Beck
 - [The Pragmatic Engineer](https://blog.pragmaticengineer.com/) by Gergely Orosz
 - [Kevlin Henney](https://kevlinhenney.medium.com)
+
+## Specific posts
 - [On cognitive load](https://minds.md/zakirullin/cognitive#long) by Artem Zakirullin
+. [Entities in the intelligence age](https://philippherkelmann.substack.com/p/entities-in-the-intelligence-age) by Philipp Herkelmann
 
 # Podcasts
 
